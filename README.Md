@@ -1,7 +1,7 @@
-#Odin recipes
+# Odin recipes
 Recipes included
 - Pizza
 - Burger
 - Spaghetti
-#Live version
+# Live version
 You can access the live version at http://mohelalfy.github.io/odin-recipies
