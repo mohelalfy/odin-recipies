@@ -4,4 +4,4 @@ Recipes included
 - Burger
 - Spaghetti
 # Live version
-You can access the live version at http://mohelalfy.github.io/odin-recipies
+You can access the live version at https://mohelalfy.github.io/odin-recipies
