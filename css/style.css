@@ -8,3 +8,19 @@ body {
 a {
     color: lightskyblue;
 }
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.recipe-link {
+    width: 32.5%;
+    text-align: center;
+    display: inline-block;
+}
